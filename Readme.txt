@@ -1,3 +1,2 @@
 
-Designer Name: MyResume
-
+Designer Name: Noel M. Makubi
