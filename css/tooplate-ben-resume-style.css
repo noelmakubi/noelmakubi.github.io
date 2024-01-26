@@ -184,7 +184,7 @@
   }
 
   .navbar-brand {
-    color: var(--white-color);
+    color: var(--gray-color);
     font-weight: var(--font-weight-light);
     font-size: var(--h4-font-size);
   }
@@ -196,8 +196,8 @@
 
   .contact-form #submit-button:hover,
   .navbar .custom-btn:hover {
-    background: var(--dark-color);
-    color: var(--white-color);
+    background: var(--white-color);
+    color: var(--maroon-color);
   }
 
   .navbar-expand-lg .navbar-nav .nav-link {
